@@ -1,0 +1,13 @@
+body > div {
+  background-color: red;
+  width: 300px;
+  margin-left: calc((100% - 300px) / 2);
+  height: 100px;
+  padding: 20px 60px;
+}
+
+body > div > p {
+  color: #fff;
+  font-size: 19px;
+  text-align: center;
+}
